@@ -1,0 +1,7 @@
+#Tue Dec 27 09:36:17 KST 2016
+base.0=/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_34267889d3b74dc0949e68242b17b1df5958a81a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_df39f035b47fae8784200d4cf3a55ce0486925b8/classes.dex
+base.1=/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_df39f035b47fae8784200d4cf3a55ce0486925b8
+file.0=/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_34267889d3b74dc0949e68242b17b1df5958a81a/classes.dex

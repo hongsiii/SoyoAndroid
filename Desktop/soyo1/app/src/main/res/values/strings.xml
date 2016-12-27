@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NavigationDrawerDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="menu">
+
+        <item>디지털세상</item>
+        <item>디지털시티즌십</item>
+        <item>디지털위험</item>
+        <item>디지털디톡스</item>
+        <item>디지털플라토</item>
+        <item>가족의지혜</item>
+        <item>로그인</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

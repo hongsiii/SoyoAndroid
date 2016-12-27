@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/user/Desktop/soyo1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/user/Desktop/soyo1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/user/Desktop/soyo1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_drawer.png",
+        "source": "/Users/user/Desktop/soyo1/app/src/main/res/drawable-hdpi/ic_drawer.png"
+    }
+]

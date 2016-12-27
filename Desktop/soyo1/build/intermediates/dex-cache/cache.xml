@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_d8af82942148e48301cad7af039e9b6103c604fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_7a7ade9d485ddeab0b70c0c06a2ea52f3aa562be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_9683f084c6eb29f08031fffb76157b9c4d858cf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8eafd26c34c402bf9976038e3f5a893aba6923b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_0a1646d317a8011933ce8bfd4142b2d5b19585f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_f7e6326b70c547ac976ddef95f7a75e8652adc0a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_9b255e33fc07cb7ff52db9ac2a42b7e83f7980c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_0fd410e25884d043443f3091bbc2ce47ea0d5bdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c34c399f21cded69eaaaadc0eecca629282a662a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="97dc6e2fbab9a36af2346b614b15300968337a96">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3786c8f0a51f93d42edef34c122fc22173cfbf1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_9a4b05208dbda9a052fc82d3fb30f103692be2cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_9f9c5d95a4ac7d0684e5b97305f7630201926f87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_bdc9592196ee53f157759ef969d6e1d5a6a877ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_788fbeb72647a73bc4f59aa5772658c1c44b1195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_93ada5b7b27650905a8c815480858eaf7d657f8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_1c38bdb5e4676671085a566b9f25785b14800129/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_ce8d5483525c298fcd6b56e4248b4de09be2d428/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_f461f359e100e4d65379a3adfd12ebaabb2361e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a95cfec859859d805110f698c3a50d660e4920cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_d2dc2d9d2f6b51a1ff7c16892332bc7988e770fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_34438efb5577447ed94d672ce1d94f6b11272b3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_2669082355a9c99cd9b76422663cca3c3bc47178/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8e37105012f59c9d6ed0bcc5e546144c94d581cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c49c7d2838e6c6017cce92a3fdcae698f06dfcca">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ec45bc00af16dd31f6e1ee7a388a05bb43ae3e59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_e5922c6b3eaaee8e15d5c8568dc7bc38f9614c97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_2ed017684f0b6477b2f6a42e1536dbd00ac50229/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_ef342e6bde06922b4b20ae76ec2148cbdb203709/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_f4ed56501644de143fe117673df4d167a764ecf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_c693d27225686c6afe48248675b193cc1df04046/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_96d76f0df04162700a43e977095c14906168396e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_955d0618518713edc96608fc75fd2c431f856ce9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_e59f11f1c317747804c70d0206e0b9b9773b99ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d6b83703274d290d775e46dfa69fcf51a2194368/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_e794c31e6a750a8a072ddc72b4771ec218345525/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_0dab0dbbc0dbdd0da357872315da4521ac2ecb40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="83f02eb8166929ce0ba27c24c683391936b0b8bc">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_34267889d3b74dc0949e68242b17b1df5958a81a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_30e49c9ca92d2fb4d56ed330ca0c9a9e264e92bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a45fbb2d0b168ffb0d3d712b55f8cc32f046417a">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_df39f035b47fae8784200d4cf3a55ce0486925b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_f5edc5ad2640c93693d2ed75e998d0d74715488e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Desktop/soyo1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/user/Desktop/soyo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_64ab49ddfb810edd434502df15817cf4fedd036f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_778361d974d71365bde3fc4ecf7da2c69aa68603/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_e0fd322b5295e0144ba7372db6d7254c13f09d86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/user/Downloads/NavigationDrawerDemo1/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+
+</items>
