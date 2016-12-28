@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="org.androidtown.bibrowser.TestWebViewActivity">
+
+
+    <TextView
+        android:id="@+id/sb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="슬비의 Built-in Browser"
+        android:layout_alignParentTop="true"/>
+
+            <EditText
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/urlInput"
+                android:hint="URL 입력                                      "
+                android:textSize="18dp"
+                android:layout_below="@+id/sb"
+                >
+            </EditText>
+
+        <WebView
+                android:id="@+id/webview"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_below="@id/urlInput"
+        />
+
+        <Button
+            android:id="@+id/requestBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="이동"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:layout_alignTop="@+id/urlInput"
+            android:layout_toRightOf="@+id/urlInput"
+            android:layout_toEndOf="@+id/urlInput">
+        </Button>
+
+
+</RelativeLayout>
